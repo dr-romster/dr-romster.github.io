@@ -36,7 +36,7 @@ Research Experience
 * University Division of Anaesthesia research fellow, Cambridge (2015-16)
 * NIHR-GSK MRC (EMINENT Consortium) Research Training Fellow, Unviersity of Cambridge (2017-2021)
 * NIHR Academic clinical lecturer in intensive care medicine (2021-2024)
-* NIHR Development and Skills Enchancement Fellow, MRC Biostatistics Unit, University of Cambridge (2025- )
+* NIHR Development and Skills Enhancement Fellow, MRC Biostatistics Unit, University of Cambridge (2025- )
 
 * Informatics
   * R
