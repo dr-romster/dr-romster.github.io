@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Romit Samanta"
 title_separator          : "-"
 name                     : &name "Dr Romit Samanta"
-description              : &description "NIHR Clinical Lecturer in Intensive Care Medicine at the University of Cambridge"
+description              : &description "NIHR DSE Fellow in Biostatistics, University of Cambridge, Consultant in Intensive Care Medicine, Addenbrooke's Hospital"
 url                      : https://dr-romster.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dr-romster.github.io"
@@ -78,7 +78,7 @@ analytics:
 author:
   name             : "Dr Romit Samanta"
   avatar           : "profile.png"
-  bio              : "NIHR Academic CL in ICM"
+  bio              : "NIHR DSE Fellow, MRC Biosatistics Unit, University of Cambridge"
   location         : "Cambridge, UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
