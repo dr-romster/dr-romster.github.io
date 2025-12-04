@@ -22,17 +22,21 @@ Education
 Clinical experience
 ======
 * Doctor in the National Health Service since 2005
+  * Consultant in ICM & Anaesthetics, Neurosciences & Trauma Critical Care Unit, Cambridge University Hospitals NHS Foundation Trust
   * Anaesthetist & Intensive Care Physician (CCT 2023)
   * 2011-12 ICU registrar, Prince of Wales Hospital, Sydney
+ 
+
 * Advanced life support (ALS) instructor
 * Focused echocardiography (FICE) mentor
  
   
 Research Experience
 ======
-* University division of anaesthesia research fellow, Cambridge (2015-16)
+* University Division of Anaesthesia research fellow, Cambridge (2015-16)
 * NIHR-GSK MRC (EMINENT Consortium) Research Training Fellow, Unviersity of Cambridge (2017-2021)
-* NIHR Academic clinical lecturer in intensive care medicine (2021- )
+* NIHR Academic clinical lecturer in intensive care medicine (2021-2024)
+* NIHR Development and Skills Enchancement Fellow, MRC Biostatistics Unit, University of Cambridge (2025- )
 
 * Informatics
   * R
